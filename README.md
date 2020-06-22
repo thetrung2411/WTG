@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Authors
 
 ### Front-end team
@@ -64,3 +65,6 @@ or pulled into docker from:
 
 docker pull justox51/wisetreeapi
 
+=======
+# WTG
+>>>>>>> b1c44153bbb1f513413250723c6456810e073e70
