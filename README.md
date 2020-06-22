@@ -1,17 +1,3 @@
-# Authors
-
-### Front-end team
-
--   Cattleya Tantri - 11128345@student.uts.edu.au
--   Minh Doan Vu - minhdvu.pro@gmail.com (preferred) / 13066461@student.uts.edu.au
--   Trung The Phan - thetrung2411@gmail.com (preferred) / 13004965@student.uts.edu.au
-
-### Back-end team
-
--   Donny Pereira - 13199587@student.uts.edu.au
--   Justin Brien - 13217702@student.uts.edu.au
--   Kye Manning Lees - 13233681@student.uts.edu.au
-
 # Project Background
 
 WiseTree is created for WiseTech to use as an alternative to the pre-existing `Strategies and Tactics Tree` solution. The project is aimed at creating a robust and scalable web app that would not only replace the later, but lay foundation work for future internal tools for WiseTech as well.
