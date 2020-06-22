@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Authors
 
 ### Front-end team
