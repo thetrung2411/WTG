@@ -7,7 +7,6 @@ import Login from './pages/login/login';
 import TreeDashboard from './pages/tree-dashboard/treeDashboard';
 import TreeEditor from './pages/tree-editor/treeEditor';
 import AuthenticationContext, { AuthenticationProvider } from './services/authenticationContextProvider';
-
 import './app.scss';
 
 const client = new ApolloClient({
