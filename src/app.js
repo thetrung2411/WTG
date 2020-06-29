@@ -11,7 +11,7 @@ import AuthenticationContext, { AuthenticationProvider } from './services/authen
 import './app.scss';
 
 const client = new ApolloClient({
-    uri: 'http://52.156.161.181:4000/graphql',
+    uri: 'https://fathomless-wildwood-14644.herokuapp.com/graphql',
 });
 
 function App() {
